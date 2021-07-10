@@ -38,11 +38,11 @@
             </div>
         </div>
         <div class="kt">
-
+       
          </div>
          <div class="buttonlong" style="border: 14px double #464B06">
             <div class="buttonlong1" style="background-color:#EBF29B">
-                    <a href="https://www.facebook.com/messages/t/100009393901983/openapp"> 
+                    <a href="http://m.me/ChanhHendSome"> 
                     <div class="anh1"><img class="anh2" src="../images/mes.png" alt="messager"></div>
                         <div class="text"><p>Messanger</p></div>
                     </a>
@@ -113,7 +113,7 @@
     </a>
 </li>
 <li>
-    <a href="https://www.facebook.com/ChanhHendSome"  >
+    <a href="fb://profile/ChanhHendSome"  >
         <img src="../images/facebook.png" alt="facebook" class="icon" >
         <p class="icon2">FaceBook</p>
     </a>
